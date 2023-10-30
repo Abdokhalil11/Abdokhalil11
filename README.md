@@ -38,6 +38,7 @@
 ## [![Socials](https://fontmeme.com/permalink/231015/2c36ce4b124c0af3857d190d67fc89e3.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Zekrom](https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif)
 <a href="https://www.linkedin.com/in/abdulrahman-khalil-948868258/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
 <a href="https://t.me/AbdoKalil" target="_blank"><img src="https://img.shields.io/badge/-Telegram-121214?style=flat&logo=telegram" alt="Instagram"></a>
+<a href="mailto:abdokhalil716@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-121214?style=flat&logo=gmail" alt="gmail"></a>
 
 ## [![Repo's](https://fontmeme.com/permalink/231015/7b31cd5ba07c1ca8a25bfae536829e86.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Darkrai](https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif)
 <p align="center">
